@@ -1,0 +1,4 @@
+andy\web\sec\WebSecurityConfig.class
+andy\web\sec\model\User.class
+andy\web\sec\MyWebConfig.class
+andy\web\sec\SecureWebAppApplication.class
